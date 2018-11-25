@@ -7,8 +7,10 @@ public class TestGit {
         System.out.println("hello github ...");
         System.out.println("hello github ...");
         System.out.println("hello github ...");
+        //xiu gai guo
     }
     public void test(){
         int a = 3;
+        System.out.println(a);
     }
 }
